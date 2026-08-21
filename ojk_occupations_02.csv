@@ -1,0 +1,95 @@
+id,code,variant,name,alias,category,rate_basis,k1_low,k1_high,k2_low,k2_high,k3_low,k3_high,source
+2913,2913,,Tar sprayers and road surfacing plants,Tar sprayer / asphalt surfacing,Construction,construction,1.376,1.72,2.064,2.58,2.752,3.44,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2914,2914,,Construction firms - Others,Konstruksi lainnya,Construction,construction,1.494,1.867,2.241,2.801,2.987,3.734,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2915,2915,,Welding Plants,Workshop las,Construction,construction,2.263,2.828,3.394,4.243,4.526,5.657,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2921,2921,,Film / television / magnetic tape studios,Studio film / televisi / rekaman,Media,construction,0.982,1.227,1.473,1.841,1.963,2.454,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2922,2922,,Film reproduction and photo treatment,Reproduksi film / foto,Media,construction,0.516,0.645,0.774,0.968,1.032,1.29,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2923,2923,,Cinemas / assembly rooms / concert halls,Bioskop / aula / concert hall,Media,construction,0.602,0.752,0.903,1.128,1.204,1.505,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2924,2924,,Theatres / variety theatres / permanent circuses,Teater / pertunjukan permanen,Media,construction,0.862,1.077,1.292,1.615,1.723,2.154,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2925,2925,,Circuses with big top / show and exhibition tents,Sirkus / tenda pameran,Media,construction,9.6,12.0,14.4,18.0,19.2,24.0,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2926,2926,,Mass communication - Others,Media lainnya,Media,construction,1.893,2.366,2.839,3.549,3.786,4.732,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2927,2927,,Radio/TV broadcasting and relay stations / towers,Stasiun radio/TV / tower,Telecommunication,construction,0.59,0.738,0.885,1.106,1.18,1.475,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2928,2928,,Automatic telecommunication exchange / wartel,STO / wartel,Telecommunication,construction,0.645,0.806,0.968,1.21,1.29,1.613,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2929,2929,,Telecommunication operator / transmission facilities,Operator telekomunikasi,Telecommunication,construction,0.59,0.738,0.886,1.107,1.181,1.476,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29291,29291,,Data center,Data center,Telecommunication,construction,0.538,0.672,0.806,1.008,1.075,1.344,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2930,2930,,Drug Store (apotek),Apotek,Trading,construction,0.889,1.112,1.334,1.667,1.778,2.223,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29311,29311,,Department stores > 200m2,Department store >200m2,Trading,construction,1.028,1.285,1.541,1.927,2.055,2.569,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29312,29312,,Supermarket > 200m2,Supermarket >200m2,Trading,construction,0.76,0.949,1.139,1.424,1.519,1.899,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29313-Grade_A,29313,Grade A,Shopping mall / center,Mall / shopping center - Grade A,Trading,construction,0.893,1.117,1.34,1.675,1.787,2.234,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29313-Grade_B,29313,Grade B,Shopping mall / center,Mall / shopping center - Grade B,Trading,construction,2.234,2.792,3.35,4.188,4.467,5.584,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29314,29314,,Grocery Store,Toko kelontong / grocery,Trading,construction,0.646,0.807,0.968,1.211,1.291,1.614,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2932,2932,,Mail Order Houses / online shopping,Online shopping / fulfillment,Trading,construction,1.673,2.091,2.51,3.137,3.346,4.183,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2933,2933,,Chain stores / convenience / grocery <200m2,Minimarket / convenience store <200m2,Trading,construction,2.474,3.093,3.711,4.639,4.948,6.186,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2934,2934,,"Shops, non chain store",Toko / ruko usaha non-chain,Trading,construction,1.52,1.9,2.28,2.85,3.04,3.8,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2935,2935,,Traditional market risks,Pasar tradisional,Trading,construction,6.0,22.5,27.0,33.75,36.0,45.0,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2936,2936,,Trading and storage - Others,Perdagangan / penyimpanan lainnya,Trading,construction,7.222,9.028,10.833,13.542,14.444,18.056,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29371,29371,,Private Warehouses,Gudang privat,Warehouse,construction,1.127,1.26,1.691,1.89,2.255,2.52,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29378,29378,,Public Warehouses,Gudang publik,Warehouse,construction,2.255,2.52,3.382,3.78,4.509,5.04,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29383,29383,,Petrol / Diesel Fuel Stations,SPBU bensin / diesel,Trading,construction,1.23,1.538,1.846,2.307,2.461,3.076,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29384,29384,,LNG Stations for Automobiles,SPBG / LNG kendaraan,Trading,construction,1.415,1.769,2.122,2.653,2.83,3.537,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29385,29385,,Storage tanks - Others,Tangki penyimpanan lainnya,Warehouse,construction,1.6,1.999,2.399,2.999,3.199,3.999,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29394,29394,,Bonded Warehouses,Gudang berikat,Warehouse,construction,2.004,2.24,3.006,3.36,4.008,4.48,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29395,29395,,Permanent show rooms without repair/workshop,Showroom permanen tanpa workshop,Trading,construction,1.52,1.9,2.28,2.85,3.04,3.8,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29411,29411,,Hotels / motels / inns certified below 3 star,Hotel < 3 bintang,Hospitality,construction,0.886,0.99,1.329,1.485,1.772,1.98,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29412,29412,,Hotels / motels / inns certified 3 star and above,Hotel >= 3 bintang,Hospitality,construction,0.483,0.54,0.725,0.81,0.966,1.08,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2942,2942,,Night clubs / dance halls / discotheques / bars / billiards / karaoke,Night club / bar / karaoke,Hospitality,construction,10.574,13.218,15.861,19.826,21.148,26.435,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29431,29431,,Swimming pools / waterpark,Kolam renang / waterpark,Hospitality,construction,0.753,0.842,1.13,1.262,1.506,1.683,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29432,29432,,Sport stadium / sport centre / fitness / gym,Stadion / fitness / gym,Hospitality,construction,0.886,0.99,1.329,1.485,1.772,1.98,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29433,29433,,Private club house / golf club house,Club house / golf club,Hospitality,construction,0.62,0.693,0.93,1.04,1.24,1.386,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2944,2944,,Hotels/entertainment/sport/services - Others,Jasa / hiburan lainnya,Hospitality,construction,3.042,3.803,4.564,5.705,6.085,7.606,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2945,2945,,Restaurants / eating and drinking places - permanent building,Restoran / rumah makan permanen,Hospitality,construction,1.479,1.849,2.218,2.773,2.958,3.697,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2946,2946,,Stalls / huts / kedai / warung makan - non permanent,Kedai / warung makan non permanen,Hospitality,construction,2.278,2.848,3.418,4.272,4.557,5.696,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2947,2947,,Beauty salon / hair dresser / barber shops,Salon / barber shop,Services,construction,0.781,0.976,1.171,1.464,1.562,1.952,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2949,2949,,Recreation areas and cultural centre,Area rekreasi / pusat budaya,Hospitality,construction,2.646,3.307,3.969,4.961,5.292,6.615,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2951,2951,,Sanatorium / hospitals / doctor rooms / old people and children homes,Rumah sakit / klinik / panti,Healthcare,construction,0.378,0.472,0.51,0.637,0.642,0.802,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2952,2952,,Religious facilities,Masjid / gereja / pura / fasilitas ibadah,Public,construction,0.352,0.44,0.475,0.594,0.598,0.748,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2953,2953,,Schools / universities / training colleges,Sekolah / universitas / tempat pelatihan,Education,construction,0.386,0.483,0.521,0.651,0.656,0.82,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2954,2954,,Museums,Museum,Public,construction,0.26,0.324,0.35,0.438,0.441,0.552,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2955,2955,,Psychiatric clinics,Klinik psikiatri,Healthcare,construction,0.853,1.067,1.152,1.44,1.451,1.814,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2961,2961,,Motor vehicle repair shops with body repair / welding / spray painting and service station,Bengkel kendaraan lengkap,Automotive,construction,1.088,1.359,1.631,2.039,2.175,2.719,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2962,2962,,Code 2961 plus petrol/diesel fuel station,Bengkel lengkap + SPBU,Automotive,construction,2.091,2.614,3.137,3.921,4.182,5.228,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2963,2963,,Motor vehicle service station only without body repair,Bengkel servis tanpa body repair,Automotive,construction,0.95,1.188,1.425,1.781,1.9,2.375,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2964,2964,,Motor vehicle pools without body repair/service station,Pool kendaraan tanpa workshop,Automotive,construction,0.981,1.226,1.472,1.84,1.962,2.453,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2965,2965,,Motor vehicle pools with service station facilities,Pool kendaraan + servis,Automotive,construction,0.998,1.247,1.497,1.871,1.996,2.495,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2966,2966,,Motor vehicle pools with body repair and service station,Pool kendaraan + body repair + servis,Automotive,construction,1.259,1.574,1.889,2.361,2.518,3.148,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2967,2967,,Motor vehicle pools with petrol/diesel fuel station,Pool kendaraan + SPBU,Automotive,construction,2.153,2.691,3.229,4.036,4.305,5.381,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2968,2968,,Motor vehicle pools with body repair/service plus petrol station,Pool kendaraan lengkap + SPBU,Automotive,construction,2.276,2.844,3.413,4.267,4.551,5.689,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2969,2969,,Rust protection / paint protection workshops,Workshop anti karat / paint protection,Automotive,construction,0.785,0.981,1.178,1.472,1.57,1.963,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2971,2971,,Apartments / condominiums / offices / car parks <= 6 storeys,Kantor / apartemen / parkir <=6 lantai,Building,construction,0.368,0.46,0.497,0.621,0.625,0.781,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2972,2972,,Apartments / condominiums / offices / car parks >6 to 18 storeys,Kantor / apartemen >6-18 lantai,Building,construction,0.385,0.481,0.52,0.65,0.655,0.818,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2973,2973,,Apartments / condominiums / offices / car parks >18 storeys,Kantor / apartemen >18 lantai,Building,construction,0.376,0.42,0.507,0.567,0.639,0.714,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2974,2974,,Convention halls and other multi purpose buildings,Gedung serbaguna / convention hall,Building,construction,0.478,0.597,0.645,0.806,0.812,1.015,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2975,2975,,Apartments / condominiums / offices / car parks >24 storeys,Kantor / apartemen >24 lantai,Building,construction,0.455,0.569,0.614,0.768,0.774,0.967,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2976,2976,,Dwelling houses not classified as shop houses <=3 storeys,Rumah tinggal <=3 lantai,Residential,construction,0.294,0.328,0.397,0.443,0.499,0.558,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+29761,29761,,Dwelling house for boarding house / kos-kosan,Kos-kosan / rumah indekos,Residential,construction,0.478,0.597,0.645,0.806,0.812,1.015,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2977,2977,,Dwelling buildings floating on river/sea shore,Rumah terapung / tepi sungai-laut,Residential,construction,1.448,1.81,1.955,2.444,2.462,3.077,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2978,2978,,Independent analytical laboratories,Laboratorium analitik independen,Building,construction,1.138,1.422,1.536,1.92,1.935,2.418,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2981,2981,,Public buildings,Gedung publik,Public,construction,0.593,0.741,0.8,1.0,1.008,1.26,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2982,2982,,Police barracks and police stations,Asrama / kantor polisi,Public,construction,0.551,0.689,0.744,0.93,0.937,1.171,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2983,2983,,Military Barracks,Asrama militer,Public,construction,2.154,2.692,2.908,3.635,3.662,4.577,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2984,2984,,Property of public bodies - Others,Properti badan publik lainnya,Public,construction,2.253,2.816,3.041,3.802,3.83,4.787,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2991,2991,,Buildings in course of construction,Bangunan dalam konstruksi,Construction,construction,0.585,0.732,0.878,1.097,1.17,1.463,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+200,200,,Mining of precious metal incl. smelting/refining,Tambang logam mulia,Pertambangan,construction,0.49,0.613,0.735,0.919,0.98,1.225,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+201,201,,Mining of aluminium incl. smelting/refinery,Tambang aluminium,Pertambangan,construction,0.8,1.0,1.2,1.5,1.6,2.0,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2041,2041,,"Exploration and Production for Crude Petroleum, on shore only",Eksplorasi/produksi minyak mentah onshore,Oil & Gas,single,2.915,3.644,2.915,3.644,2.915,3.644,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2042,2042,,"Crude Petroleum Pipe Lines incl. pump station, on shore only",Pipa minyak mentah onshore,Oil & Gas,single,1.635,2.044,1.635,2.044,1.635,2.044,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2043,2043,,"Exploration and Production for Natural Gas and geothermal, on shore",Eksplorasi/produksi gas/geothermal onshore,Oil & Gas,single,2.702,3.378,2.702,3.378,2.702,3.378,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2044,2044,,"Natural Gas Transmission and distribution incl. geothermal, on shore",Transmisi/distribusi gas/geothermal onshore,Oil & Gas,single,2.489,3.111,2.489,3.111,2.489,3.111,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2045,2045,,Terminal for crude oil,Terminal minyak mentah,Oil & Gas,single,1.849,2.311,1.849,2.311,1.849,2.311,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2046,2046,,Terminals for Liquefied Gases,Terminal gas cair,Oil & Gas,single,2.275,2.844,2.275,2.844,2.275,2.844,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2047,2047,,Other petroleum and gas products,Produk petroleum/gas lainnya,Oil & Gas,single,3.2,4.0,3.2,4.0,3.2,4.0,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2048,2048,,Degasification Stations,Stasiun degasifikasi,Oil & Gas,single,2.062,2.578,2.062,2.578,2.062,2.578,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2049,2049,,Off shore Facilities,Fasilitas offshore,Oil & Gas,single,2.987,3.733,2.987,3.733,2.987,3.733,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+206,206,,Foundries / reduction plants for metals excl. iron/aluminium/precious metal,Smelter logam lainnya,Pertambangan,construction,0.754,0.942,1.13,1.413,1.507,1.884,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2141,2141,,Porcelain/ceramic factories with tunnel kilns only,Pabrik keramik - tunnel kiln,Industri,construction,0.748,0.935,1.122,1.402,1.496,1.87,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2142,2142,,Porcelain/ceramic factories with other kiln,Pabrik keramik - kiln lainnya,Industri,construction,0.65,0.813,0.976,1.22,1.301,1.626,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2151,2151,,Glass container / pressed & blown glass,Pabrik botol/kaca cetak,Industri,construction,1.834,2.292,2.75,3.438,3.667,4.584,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2152,2152,,Flat glass incl. tempered,Pabrik kaca lembaran/tempered,Industri,construction,1.594,1.993,2.392,2.99,3.189,3.986,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2158,2158,,Glass works mixed,Pabrik kaca campuran,Industri,construction,2.073,2.591,3.109,3.886,4.145,5.182,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+216,216,,Glass products made of purchased glass,Produk kaca dari kaca jadi,Industri,construction,2.052,2.566,2.771,3.463,3.489,4.361,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+217,217,,Precious stone workshops and processing plant,Workshop batu mulia,Industri,construction,0.375,0.469,0.506,0.633,0.637,0.797,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+218,218,,Emery and abrasive materials factories,Pabrik bahan abrasif,Industri,construction,2.717,3.396,3.667,4.584,4.618,5.773,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+219,219,,Tarcoated chippings / asphalt & roofing felt factories,Pabrik aspal/roofing felt,Industri,construction,3.124,3.905,4.686,5.858,6.249,7.811,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2201,2201,,Sheet rolling/foil/forging/locksmith/constructional metalworks,Rolling/forging/metalworks,Industri,construction,0.584,0.731,0.877,1.096,1.169,1.461,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2202,2202,,Metal product from metal powder / forging / pressing,Metalurgi bubuk/forging,Industri,construction,1.801,2.251,2.701,3.377,3.602,4.502,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2203,2203,,Metalworks mixed,Metalworks campuran,Industri,construction,1.241,1.551,1.861,2.326,2.481,3.102,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
