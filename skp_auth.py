@@ -5,6 +5,7 @@ import hmac
 import time
 from datetime import date, datetime
 from typing import Any
+from zoneinfo import ZoneInfo
 
 import streamlit as st
 
@@ -12,6 +13,11 @@ PBKDF2_ITERATIONS = 310_000
 SESSION_HOURS = 12
 MAX_ATTEMPTS = 5
 LOCK_SECONDS = 30
+APP_TIMEZONE = ZoneInfo("Asia/Jakarta")
+
+
+def _today() -> date:
+    return datetime.now(APP_TIMEZONE).date()
 
 
 def _hash_password(password: str, salt_hex: str) -> str:
@@ -57,7 +63,7 @@ def _record_is_active(record: dict[str, Any]) -> bool:
     if not bool(record.get("active", True)):
         return False
     expiry = _parse_expiry(record.get("expires_at"))
-    return expiry is None or date.today() <= expiry
+    return expiry is None or _today() <= expiry
 
 
 def _verify_password(password: str, record: dict[str, Any]) -> bool:
