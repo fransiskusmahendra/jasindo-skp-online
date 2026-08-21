@@ -4,6 +4,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 from dateutil.relativedelta import relativedelta
+from skp_auth import render_account_sidebar, require_login
 from skp_core import calculate, invalid_approvals, load_master, roman_month, rupiah
 from skp_exports import build_docx, build_pdf
 from skp_forms import endorsement_object_form, new_object_form
@@ -15,7 +16,8 @@ st.markdown("""<style>.block-container{padding-top:1.4rem;padding-bottom:2rem;ma
 @st.cache_data
 def get_master(): return load_master(BASE_DIR)
 
-def settings_panel():
+def settings_panel(user):
+    render_account_sidebar(user)
     with st.sidebar:
         st.markdown("### SKP Online"); st.caption("Property/FLEXAS & endorsement")
         with st.expander("⚙️ Pengaturan Internal / PKS",expanded=False):
@@ -53,7 +55,8 @@ def render_result(data,calc,key):
     a,b=st.columns(2); a.download_button("⬇️ Download Word",build_docx(data,calc),file_name=f"SKP_{key}.docx",mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",use_container_width=True); b.download_button("⬇️ Download PDF",build_pdf(data,calc),file_name=f"SKP_{key}.pdf",mime="application/pdf",use_container_width=True)
 
 def main():
-    master=get_master(); settings=settings_panel()
+    user=require_login()
+    master=get_master(); settings=settings_panel(user)
     st.title("📄 SKP Online"); st.caption("Pilih okupasi, isi nilai pertanggungan, lalu hitung. Validasi OJK dan prorata berjalan otomatis di belakang layar.")
     tnew,tend,tmaster=st.tabs(["📝 SKP Baru","🔄 Endorsement","🔎 Master Okupasi"])
     with tnew:
