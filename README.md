@@ -12,7 +12,7 @@ Aplikasi Streamlit mandiri untuk **Surat Konfirmasi Premi Property/FLEXAS** dan 
 7. Klik **Hitung Premi**, lalu unduh Word/PDF.
 
 ## Master okupasi
-`ojk_occupations_full.csv` memuat **373 okupasi dengan rate numerik yang dapat dipilih**, berdasarkan SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A. Baris judul tanpa tarif atau referensi tanpa rate mandiri tidak dijadikan pilihan.
+Master okupasi disimpan dalam `ojk_occupations_01.csv` sampai `ojk_occupations_04.csv` dan dibaca aplikasi sebagai satu master berisi **373 okupasi dengan rate numerik yang dapat dipilih**, berdasarkan SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A. Baris judul tanpa tarif atau referensi tanpa rate mandiri tidak dijadikan pilihan.
 
 Master mendukung:
 - Tarif berdasarkan **Kelas Konstruksi 1, 2, dan 3**.
