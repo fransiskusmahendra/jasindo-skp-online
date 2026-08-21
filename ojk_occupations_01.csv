@@ -1,0 +1,95 @@
+id,code,variant,name,alias,category,rate_basis,k1_low,k1_high,k2_low,k2_high,k3_low,k3_high,source
+2020,2020,,Iron Mines (underground or above ground),Tambang besi,Industrial,construction,0.7,0.875,1.05,1.313,1.4,1.75,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2021,2021,,Blast Furnaces and Iron Foundries,Peleburan / pengecoran besi,Industrial,construction,0.805,1.006,1.208,1.509,1.61,2.012,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+203,203,,Steelworks and Rolling Mills,Pabrik baja / rolling mill,Industrial,construction,1.085,1.356,1.628,2.035,2.17,2.713,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2051,2051,,Extraction and Processing above Ground,Pertambangan lain - permukaan,Industrial,construction,0.996,1.245,1.494,1.868,1.992,2.49,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2052,2052,,Extraction and Processing below Ground,Pertambangan lain - bawah tanah,Industrial,construction,1.145,1.432,1.718,2.148,2.291,2.863,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2058,2058,,Other and/or Mixed Mines,Pertambangan lain / campuran,Industrial,construction,1.295,1.619,1.942,2.428,2.59,3.237,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2071,2071,,Coal and Lignite Extraction above Ground,Tambang batubara permukaan,Industrial,construction,0.981,1.226,1.471,1.839,1.962,2.452,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2072,2072,,Coal and Lignite Extraction below Ground,Tambang batubara bawah tanah,Industrial,construction,1.422,1.778,2.133,2.667,2.844,3.555,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2073,2073,,Coal Coking Plants,Pabrik kokas,Industrial,construction,1.275,1.594,1.913,2.391,2.55,3.188,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2074,2074,,Manufacturing of Coal Briquettes,Pabrik briket batubara,Industrial,construction,1.128,1.41,1.692,2.115,2.256,2.82,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2081,2081,,Salt mines - rock / evaporated deposit,Tambang garam,Industrial,construction,0.98,1.225,1.47,1.837,1.96,2.449,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2082,2082,,Salt extraction from sea water,Tambak garam,Industrial,construction,0.852,1.065,1.278,1.598,1.704,2.13,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+209,209,,Peat extraction / processing,Ekstraksi / pengolahan gambut,Industrial,construction,0.5,0.625,0.75,0.938,1.0,1.25,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+210,210,,"Stone, gravel and sand extraction installations",Tambang batu / kerikil / pasir,Industrial,construction,0.55,0.688,0.743,0.928,0.935,1.169,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+21121,21121,,Cement Factories with rotary kiln,Pabrik semen dengan rotary kiln,Industrial,construction,0.87,1.088,1.305,1.631,1.74,2.175,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+21122,21122,,Cement Factories without rotary kiln,Pabrik semen tanpa rotary kiln,Industrial,construction,0.78,0.975,1.17,1.463,1.56,1.95,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2113,2113,,Concrete products / ready mixed concrete,Beton / ready mix / mortar,Industrial,construction,0.69,0.863,1.035,1.294,1.38,1.725,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2114,2114,,"Artificial Teeth, non plastic",Gigi buatan non-plastik,Industrial,construction,0.6,0.75,0.9,1.125,1.2,1.5,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2121,2121,,Asbestos products / cut stone products,Produk batu / asbestos,Industrial,construction,1.188,1.485,1.782,2.228,2.376,2.97,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2122,2122,,Animal bones and/or shell crushing for feed,Penghancuran tulang / cangkang untuk pakan,Industrial,construction,1.366,1.708,2.049,2.562,2.732,3.415,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2123,2123,,Mineral Wool,Mineral wool,Industrial,construction,1.544,1.931,2.317,2.896,3.089,3.861,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2131,2131,,Brick / structural clay factories - tunnel kilns only,Pabrik bata/genteng - tunnel kiln,Industrial,construction,0.6,0.75,0.9,1.125,1.2,1.5,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2132,2132,,Brick / structural clay factories - other kilns,Pabrik bata/genteng - kiln lainnya,Industrial,construction,0.531,0.664,0.796,0.995,1.062,1.327,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2133,2133,,Ceramic color / frit / inorganic pigments,Pabrik warna keramik / pigmen,Industrial,construction,0.462,0.577,0.692,0.866,0.923,1.154,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2241,2241,,Vehicle construction plants including bicycle and becak,Pabrik kendaraan / sepeda / becak,Industrial,construction,0.429,0.536,0.644,0.805,0.858,1.073,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2242,2242,,Construction of railway carriages and locomotives,Pabrik kereta / lokomotif,Industrial,construction,0.908,1.135,1.362,1.702,1.815,2.269,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2243,2243,,Aircraft construction plants,Pabrik pesawat,Industrial,construction,0.722,0.902,1.082,1.353,1.443,1.804,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2244,2244,,Ship construction / naval shipyards,Galangan kapal,Industrial,construction,0.676,0.845,1.014,1.268,1.353,1.691,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2245,2245,,Vehicle assembling plants,Pabrik perakitan kendaraan,Industrial,construction,0.41,0.513,0.615,0.769,0.82,1.025,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2248,2248,,Vehicle / railway / aircraft / ship mixed,Pabrik transportasi campuran,Industrial,construction,0.861,1.076,1.291,1.614,1.721,2.152,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2251,2251,,Manufacture/assembly of telecommunication apparatus,Pabrik/perakitan telekomunikasi,Industrial,construction,0.906,1.132,1.359,1.699,1.812,2.265,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2252,2252,,Manufacture/assembly of computer apparatus,Pabrik/perakitan komputer,Industrial,construction,1.169,1.462,1.754,2.192,2.338,2.923,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2253,2253,,Manufacture of Integrated Circuit (IC) from chips,Pabrik IC / chip,Industrial,construction,1.354,1.692,2.031,2.538,2.708,3.385,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+236,236,,"Film, photographic paper, magnetic tape, celluloid adhesive tape",Film / kertas foto / magnetic tape,Industrial,construction,0.7,0.875,1.05,1.313,1.4,1.75,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2371,2371,,"Manufacture of soaps, detergents and polishes",Sabun / deterjen / polish,Industrial,construction,1.022,1.277,1.532,1.916,2.043,2.554,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2372,2372,,"Etheric oils, essences, perfumes and cosmetics",Parfum / kosmetik / essential oil,Industrial,construction,1.221,1.526,1.831,2.289,2.442,3.052,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2373,2373,,"Gelatine, non-synthetic adhesives, starches, candles, wax goods, natural resins",Gelatin / lem / lilin / resin alami,Industrial,construction,2.839,3.549,4.258,5.323,5.678,7.097,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2461,2461,,Knitting mills / hosiery / glove factories,Pabrik rajut / hosiery / sarung tangan,Textile,construction,3.18,3.975,4.771,5.963,6.361,7.951,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2462,2462,,Clothing / sewing works / custom tailors - large scale,Penjahit / garment skala besar,Textile,construction,1.285,1.606,1.928,2.409,2.57,3.213,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2463,2463,,Umbrella / felt / lace / embroidery factories,Payung / felt / lace / bordir,Textile,construction,1.655,2.069,2.483,3.104,3.311,4.138,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2464,2464,,Batik Establishments,Batik,Textile,construction,1.171,1.463,1.756,2.195,2.341,2.927,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2465,2465,,Clothing / custom tailor / konveksi - small scale/home industry,Konveksi kecil / home industry,Textile,construction,1.906,2.13,2.859,3.195,3.812,4.26,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2466,2466,,Zipper Factories,Pabrik resleting,Textile,construction,2.514,3.143,3.771,4.714,5.028,6.286,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2468,2468,,Textile mixed,Tekstil campuran,Textile,construction,1.499,1.873,2.248,2.81,2.997,3.747,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+247,247,,"Upholstery, cushion maker and saddler workshops",Jok / cushion / saddler,Textile,construction,3.35,4.188,5.025,6.281,6.7,8.375,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2491,2491,,Laundries and pressers,Laundry,Services,construction,2.8,3.5,4.2,5.25,5.6,7.0,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2492,2492,,Dry chemical cleaning,Dry cleaning,Services,construction,2.354,2.942,3.531,4.413,4.708,5.885,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2493,2493,,Cleaning of feathers and down,Pembersihan bulu,Services,construction,3.1,3.875,4.65,5.813,6.2,7.75,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2498,2498,,Laundry / cleaning mixed,Laundry / cleaning campuran,Services,construction,2.6,3.25,3.9,4.875,5.2,6.5,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2521,2521,,Carton manufacture including corrugated paper product,Pabrik karton / corrugated,Industrial,construction,4.363,5.454,6.545,8.181,8.726,10.908,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2522,2522,,Paper goods and/or carton goods factories,Pabrik barang kertas / karton,Industrial,construction,2.959,3.699,4.439,5.549,5.919,7.399,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2523,2523,,Bookbinders,Penjilidan buku,Industrial,construction,2.807,3.509,4.211,5.264,5.614,7.018,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2528,2528,,Paper/cardboard mixed,Kertas/karton campuran,Industrial,construction,3.869,4.837,5.804,7.255,7.738,9.673,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2531,2531,,Newspaper printers,Percetakan koran,Printing,construction,0.713,0.891,1.07,1.337,1.426,1.783,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2532,2532,,Other printers / art printing / lithographers / sablon,Percetakan lain / sablon,Printing,construction,1.148,1.435,1.722,2.152,2.296,2.87,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2533,2533,,Typeplate / block workshops,Workshop typeplate / block,Printing,construction,1.892,2.365,2.838,3.548,3.785,4.731,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2534,2534,,Photogravure workshop,Photogravure,Printing,construction,1.762,2.202,2.642,3.303,3.523,4.404,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2538,2538,,Printing mixed,Percetakan campuran,Printing,construction,2.134,2.667,3.201,4.001,4.268,5.335,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2591,2591,,Rubber goods factories excluding foamed rubber,Pabrik barang karet,Industrial,construction,2.603,3.254,3.905,4.881,5.206,6.508,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2592,2592,,Foamed rubber factories,Pabrik karet busa,Industrial,construction,8.692,10.865,13.038,16.298,17.385,21.731,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2593,2593,,Tyre factories / vulcanizing works,Pabrik ban / vulkanisir,Industrial,construction,1.036,1.295,1.554,1.942,2.072,2.59,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+25931,25931,,Tyre Cord Manufacturers,Pabrik tyre cord,Industrial,construction,0.901,1.126,1.351,1.689,1.802,2.252,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2594,2594,,Remilling factories,Remilling karet,Industrial,construction,2.837,3.547,4.256,5.32,5.674,7.093,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2595,2595,,Smoke houses (rubber),Rumah asap karet,Industrial,construction,22.271,27.839,33.407,41.758,44.542,55.678,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2596,2596,,Crumb Rubber Factories,Pabrik crumb rubber,Industrial,construction,3.13,3.912,4.694,5.868,6.259,7.824,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2598,2598,,Rubber mixed,Industri karet campuran,Industrial,construction,6.007,7.509,9.011,11.263,12.014,15.018,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2601,2601,,Sawmills / panglong - manual manufacture only,Panglong / sawmill,Wood,construction,7.031,8.788,10.546,13.183,14.062,17.577,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2602,2602,,Carpenter shops / parquet factories / sawing and cutting firewood,Pertukangan kayu / parquet,Wood,construction,3.015,3.769,4.523,5.654,6.031,7.538,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2603,2603,,Wooden sport equipment,Peralatan olahraga kayu,Wood,construction,3.92,4.9,5.88,7.35,7.84,9.8,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2604,2604,,Mosquito coil factories,Pabrik obat nyamuk bakar,Wood,construction,3.32,4.15,4.98,6.225,6.64,8.301,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2605,2605,,Toothpick / chopsticks factories,Pabrik tusuk gigi / sumpit,Wood,construction,7.803,9.753,11.704,14.63,15.605,19.506,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2606,2606,,Rattan drying & peeling mills,Pengeringan / pengupasan rotan,Wood,construction,3.394,4.243,5.091,6.364,6.788,8.485,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2608,2608,,Wood processing mixed,Pengolahan kayu campuran,Wood,construction,15.138,18.923,22.708,28.385,30.277,37.846,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+261,261,,Furniture manufacture / cabinet makers / bamboo-rattan-wood handicrafts,Furniture / mebel,Wood,construction,4.0,5.0,6.0,7.5,8.0,10.0,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2621,2621,,Fibreboard / hardboard / Masonite,Pabrik fibreboard / hardboard,Wood,construction,1.523,1.904,2.285,2.856,3.046,3.808,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2622,2622,,Wood chipboard / particle board / pressed wood,Pabrik particle board / pressed wood,Wood,construction,2.957,3.696,4.436,5.544,5.914,7.393,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2722,2722,,Bakeries and biscuit works,Bakery / pabrik biskuit,Food,construction,0.713,0.892,1.07,1.337,1.426,1.783,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2733,2733,,"Soya bean, tomato and hot pepper sauce",Kecap / saus / sambal,Food,construction,0.465,0.582,0.698,0.873,0.931,1.163,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2734,2734,,Poultry Farms,Peternakan unggas,Agriculture,construction,1.48,1.85,2.221,2.776,2.961,3.701,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2735,2735,,Other farms,Peternakan lainnya,Agriculture,construction,0.937,1.172,1.406,1.758,1.875,2.343,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2736,2736,,Poultry Hatcheries,Penetasan unggas,Agriculture,construction,0.968,1.21,1.451,1.814,1.935,2.419,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2737,2737,,Fish Hatcheries,Pembenihan ikan,Agriculture,construction,0.823,1.029,1.234,1.543,1.646,2.057,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+287,287,,Waterworks / pumping stations / sewage works / WTP / WWTP,PDAM / pompa / WTP / WWTP,Utility,construction,0.554,0.692,0.831,1.038,1.108,1.385,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2901,2901,,"Railways, LRT, MRT, monorail, cable cars",Kereta / LRT / MRT / monorel,Transport,construction,0.25,0.313,0.338,0.422,0.425,0.531,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2902,2902,,"Highways, bridges, airport runways",Jalan tol / jembatan / runway,Transport,construction,0.473,0.592,0.639,0.799,0.805,1.006,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2903,2903,,Jetties (dermaga),Dermaga,Transport,construction,0.31,0.388,0.419,0.523,0.527,0.659,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2904,2904,,Aerial railways / ropeways / funicular / chairlifts,Kereta gantung / ropeway,Transport,construction,2.354,2.942,3.178,3.972,4.002,5.002,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2905,2905,,Airport - Hangars,Hanggar bandara,Transport,construction,0.869,1.087,1.174,1.467,1.478,1.848,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2906,2906,,Airport - Workshops / spare parts depots,Workshop / gudang sparepart bandara,Transport,construction,0.97,1.212,1.309,1.636,1.648,2.061,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2907,2907,,Airport - Aircrafts,Pesawat di bandara,Transport,construction,0.94,1.175,1.269,1.586,1.598,1.998,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2908,2908,,Airport - General airport services,Layanan umum bandara,Transport,construction,0.623,0.779,0.841,1.051,1.059,1.324,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2909,2909,,Airport - Others,Bandara lainnya,Transport,construction,0.685,0.857,0.925,1.156,1.165,1.456,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2911,2911,,Construction firm / road construction / construction sites,Kontraktor / lokasi konstruksi,Construction,construction,1.12,1.4,1.68,2.1,2.24,2.8,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2912,2912,,Cranes / excavators / elevators / road building machines,Crane / excavator / alat konstruksi,Construction,construction,1.142,1.427,1.712,2.14,2.283,2.854,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
