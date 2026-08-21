@@ -1,0 +1,95 @@
+id,code,variant,name,alias,category,rate_basis,k1_low,k1_high,k2_low,k2_high,k3_low,k3_high,source
+22111,22111,,Industrial/mining/commercial machinery without melting,Pabrik mesin tanpa peleburan,Industri,construction,0.41,0.513,0.616,0.77,0.821,1.026,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+22112,22112,,Industrial/mining/commercial machinery with melting,Pabrik mesin dengan peleburan,Industri,construction,0.472,0.59,0.708,0.885,0.944,1.18,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2212,2212,,Metal coating services,Pelapisan logam,Industri,construction,3.279,4.099,4.919,6.148,6.558,8.198,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2213,2213,,Coating processes using flammable materials,Coating bahan mudah terbakar,Industri,construction,0.941,1.176,1.411,1.764,1.881,2.352,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2214,2214,,Metal/steel furniture factories using plastic/foam,Pabrik furnitur metal + plastik/foam,Industri,construction,1.996,2.495,2.993,3.742,3.991,4.989,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2215,2215,,Metal/steel spring mattresses without foam,Pabrik springbed metal tanpa foam,Industri,construction,2.57,3.212,3.854,4.818,5.139,6.424,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2218,2218,,Machinery/metal coating mixed,Industri metal campuran,Industri,construction,3.689,4.611,5.533,6.917,7.378,9.222,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2221,2221,,Manufacture/assembly/repair of electrical machines/apparatus,Pabrik/perakitan alat listrik,Industri,construction,0.75,0.937,1.125,1.406,1.5,1.875,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2222,2222,,Wet and dry battery factories,Pabrik baterai/aki,Industri,construction,0.58,0.725,0.87,1.087,1.16,1.449,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2223,2223,,Measuring/photographic/precision instruments & laboratories,Pabrik alat ukur/precision,Industri,construction,0.823,1.029,1.235,1.543,1.646,2.058,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2228,2228,,Electrical apparatus mixed,Industri alat listrik campuran,Industri,construction,1.375,1.718,2.062,2.578,2.749,3.437,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2231,2231,,Wire factories,Pabrik kawat,Industri,construction,0.754,0.943,1.131,1.414,1.509,1.886,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2232,2232,,Cable factories,Pabrik kabel,Industri,construction,0.787,0.983,1.18,1.475,1.574,1.967,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2233,2233,,"Nails, screws, bolts and nuts factories",Pabrik paku/baut/mur,Industri,construction,0.618,0.772,0.927,1.159,1.236,1.545,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2238,2238,,Cable and wire mixed,Pabrik kabel/kawat campuran,Industri,construction,0.76,0.95,1.14,1.425,1.52,1.9,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2261,2261,,Radio/TV receiver and audio-video recorder/player factories/assembly,Pabrik/perakitan TV/radio/audio-video,Industri,construction,0.824,1.03,1.236,1.545,1.648,2.06,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2262,2262,,Parts for radio/TV/audio-video equipment,Pabrik komponen TV/radio/audio-video,Industri,construction,1.187,1.483,1.78,2.225,2.373,2.967,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+227,227,,Light bulb/electronic/fluorescent/neon/LED factories,Pabrik lampu/LED/neon,Industri,construction,0.778,0.973,1.167,1.459,1.556,1.945,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+228,228,,Watches/clocks and component parts factories,Pabrik jam,Industri,construction,0.829,1.036,1.243,1.554,1.657,2.072,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2299,2299,,Other industries in main category 22,Industri logam/peralatan lainnya,Industri,construction,0.771,0.964,1.156,1.445,1.542,1.927,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+230011,230011,,General chemical products factories - flammable,Pabrik kimia umum mudah terbakar,Kimia/Farmasi,construction,2.272,2.841,3.409,4.261,4.545,5.681,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+230012,230012,,General chemical products factories - non flammable,Pabrik kimia umum tidak mudah terbakar,Kimia/Farmasi,construction,1.976,2.47,2.964,3.705,3.952,4.94,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23002,23002,,Pharmaceutical products factories and medicated plaster,Pabrik farmasi,Kimia/Farmasi,construction,0.984,1.23,1.476,1.845,1.968,2.46,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23003,23003,,Natural Drug (Jamu),Pabrik jamu,Kimia/Farmasi,construction,1.188,1.486,1.783,2.228,2.377,2.971,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23004,23004,,Pesticides and agricultural chemical,Pabrik pestisida/agrokimia,Kimia/Farmasi,construction,1.382,1.728,2.074,2.592,2.765,3.456,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+230051,230051,,Paint & varnish - solvent base,Pabrik cat solvent base,Kimia/Farmasi,construction,5.644,7.055,8.466,10.583,11.288,14.11,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+230052,230052,,Paint & varnish - water base,Pabrik cat water base,Kimia/Farmasi,construction,2.258,2.822,3.386,4.233,4.515,5.644,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23006,23006,,"Acid, alkaline factories",Pabrik asam/alkali,Kimia/Farmasi,construction,3.104,3.88,4.656,5.82,6.208,7.76,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23007,23007,,Chlor-alkali electrolysis,Pabrik chlor-alkali,Kimia/Farmasi,construction,3.951,4.939,5.926,7.408,7.902,9.877,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23008,23008,,Air separation plants / technical gases,Pabrik gas teknis/air separation,Kimia/Farmasi,construction,4.797,5.997,7.196,8.995,9.595,11.993,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23009,23009,,Peroxide manufacture/application/storage,Pabrik/pergudangan peroxide,Kimia/Farmasi,construction,5.644,7.055,8.466,10.583,11.288,14.11,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23010,23010,,Other chemical than 23006-23009,Pabrik kimia lainnya,Kimia/Farmasi,construction,6.491,8.113,9.736,12.17,12.981,16.226,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+230121,230121,,Ink factories - solvent base,Pabrik tinta solvent base,Kimia/Farmasi,construction,1.38,1.725,2.07,2.588,2.76,3.45,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+230122,230122,,Ink factories - water base,Pabrik tinta water base,Kimia/Farmasi,construction,1.2,1.5,1.8,2.25,2.4,3.0,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2310,2310,,Oil Refinery,Kilang minyak,Oil & Gas,single,2.135,2.669,2.135,2.669,2.135,2.669,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23111,23111,,Hydrogen generation from natural/refinery gas or liquid,Produksi hidrogen,Kimia/Petrokimia,construction,1.857,2.321,2.785,3.481,3.713,4.641,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23115,23115,,Lubricating oils and greases by blending/compounding,Pabrik pelumas/grease,Kimia/Petrokimia,construction,1.614,2.018,2.422,3.027,3.229,4.036,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2321,2321,,Primary petrochemical works,Petrokimia primer,Kimia/Petrokimia,construction,1.616,2.02,2.425,3.031,3.233,4.041,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2322,2322,,Petrochemical intermediate products,Produk antara petrokimia,Kimia/Petrokimia,construction,1.914,2.393,2.871,3.589,3.828,4.785,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2323,2323,,Large scale polymerization,Polimerisasi skala besar,Kimia/Petrokimia,construction,1.452,1.815,2.178,2.723,2.904,3.63,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23241,23241,,Ammonia and/or urea production,Pabrik amonia/urea,Kimia/Petrokimia,construction,0.96,1.201,1.441,1.801,1.921,2.401,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23242,23242,,Melamine powder/crystal production,Pabrik melamin,Kimia/Petrokimia,construction,0.835,1.044,1.253,1.566,1.67,2.088,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2325,2325,,Synthetic rubber,Pabrik karet sintetis,Kimia/Petrokimia,construction,3.092,3.865,4.638,5.798,6.185,7.731,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2326,2326,,Liquefaction of natural gas,Pencairan gas alam,Kimia/Petrokimia,construction,1.759,2.199,2.639,3.299,3.518,4.398,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2327,2327,,Liquefaction of petroleum gases,Pencairan gas petroleum,Kimia/Petrokimia,construction,1.224,1.53,1.836,2.295,2.448,3.06,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2328,2328,,"Petrol coke, soot, graphite",Petroleum coke/soot/graphite,Kimia/Petrokimia,construction,6.846,8.558,10.269,12.837,13.692,17.115,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2329,2329,,Liquefaction and gasification of coal,Pencairan/gasifikasi batubara,Kimia/Petrokimia,construction,8.215,10.269,12.323,15.404,16.431,20.538,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2331,2331,,Crude oil storage tanks (non terminal),Tangki minyak mentah non-terminal,Kimia/Petrokimia,construction,1.189,1.487,1.784,2.23,2.379,2.974,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2332,2332,,Oil products in tanks in harbour area (non terminal),Tangki produk minyak area pelabuhan,Kimia/Petrokimia,construction,1.4,1.75,2.1,2.625,2.8,3.5,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2333,2333,,Liquefied gases storage (non terminal),Tangki gas cair non-terminal,Kimia/Petrokimia,construction,2.127,2.659,3.19,3.988,4.254,5.317,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2334,2334,,Pipeline for chemical products,Pipa produk kimia,Kimia/Petrokimia,construction,1.422,1.778,2.133,2.667,2.844,3.555,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2335,2335,,Other liquid chemicals e.g. ammonia,Tangki kimia cair lainnya,Kimia/Petrokimia,construction,1.589,1.987,2.384,2.98,3.179,3.973,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2341,2341,,Plastic products by extrusion/molding etc,Pabrik produk plastik,Kimia/Petrokimia,construction,2.505,2.8,3.758,4.2,5.011,5.6,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2342,2342,,Foam and expanded plastics,Pabrik foam/expanded plastic,Kimia/Petrokimia,construction,14.623,18.279,21.935,27.418,29.246,36.558,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23431,23431,,Synthetic resin adhesive using flammable/combustible/volatile materials,Pabrik adhesive resin - flammable,Kimia/Petrokimia,construction,5.85,7.313,8.776,10.97,11.701,14.626,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23432,23432,,Formaldehyde resin adhesive process,Pabrik formaldehyde resin adhesive,Kimia/Petrokimia,construction,6.728,8.41,10.092,12.615,13.456,16.82,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+235,235,,Artificial fibres / petrochemical feedstock process,Pabrik serat buatan,Kimia/Petrokimia,construction,1.974,2.467,2.961,3.701,3.948,4.935,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23741,23741,,Natural adhesives - water based,Pabrik lem alami water based,Tekstil/Kertas/Kulit,construction,3.8,4.75,5.7,7.125,7.6,9.5,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+23742,23742,,Natural adhesives - solvent based,Pabrik lem alami solvent based,Tekstil/Kertas/Kulit,construction,4.37,5.463,6.555,8.194,8.74,10.925,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2378,2378,,Chemical/cosmetic mixed,Industri kimia kosmetik campuran,Tekstil/Kertas/Kulit,construction,2.2,2.75,3.3,4.125,4.4,5.5,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+238,238,,Chemical fertilizer factories conventional,Pabrik pupuk kimia konvensional,Tekstil/Kertas/Kulit,construction,1.427,1.783,2.14,2.675,2.853,3.566,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2399,2399,,"Powder, explosives, matches and firework factories",Pabrik bahan peledak/korek/kembang api,Tekstil/Kertas/Kulit,construction,8.7,10.875,13.05,16.313,17.4,21.75,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2401,2401,,Spinning/pre-spinning - animal fibres,Pemintalan serat hewani,Tekstil/Kertas/Kulit,construction,1.794,2.243,2.691,3.364,3.588,4.485,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2402,2402,,Spinning/pre-spinning - vegetable/cellulose fibres,Pemintalan serat nabati/selulosa,Tekstil/Kertas/Kulit,construction,1.67,2.088,2.505,3.132,3.34,4.175,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2403,2403,,Spinning/pre-spinning - synthetic fibres,Pemintalan serat sintetis,Tekstil/Kertas/Kulit,construction,1.55,1.938,2.325,2.906,3.1,3.875,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2408,2408,,Spinning/pre-spinning - mixed,Pemintalan campuran,Tekstil/Kertas/Kulit,construction,2.159,2.699,3.239,4.049,4.319,5.398,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2411,2411,,Weaving/pre-weaving - animal fibres,Pertenunan serat hewani,Tekstil/Kertas/Kulit,construction,1.601,2.002,2.402,3.002,3.203,4.003,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2412,2412,,Weaving/pre-weaving - vegetable/cellulose fibres,Pertenunan serat nabati/selulosa,Tekstil/Kertas/Kulit,construction,1.744,2.18,2.616,3.271,3.489,4.361,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2413,2413,,Weaving/pre-weaving - synthetic fibres,Pertenunan serat sintetis,Tekstil/Kertas/Kulit,construction,1.428,1.785,2.142,2.677,2.856,3.569,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2418,2418,,Weaving/pre-weaving - mixed,Pertenunan campuran,Tekstil/Kertas/Kulit,construction,2.081,2.601,3.121,3.902,4.162,5.202,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2421,2421,,Dressing/finishing - animal fibres,Finishing tekstil serat hewani,Tekstil/Kertas/Kulit,construction,1.738,2.173,2.608,3.26,3.477,4.346,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2422,2422,,Dressing/finishing - vegetable/cellulose fibres,Finishing tekstil serat nabati/selulosa,Tekstil/Kertas/Kulit,construction,1.21,1.513,1.816,2.269,2.421,3.026,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2423,2423,,Dressing/finishing - synthetic fibres,Finishing tekstil serat sintetis,Tekstil/Kertas/Kulit,construction,1.386,1.732,2.079,2.598,2.772,3.465,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2428,2428,,Dressing/finishing - mixed,Finishing tekstil campuran,Tekstil/Kertas/Kulit,construction,2.065,2.582,3.098,3.872,4.131,5.163,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2431,2431,,Mixed spinning/weaving - animal fibres,Proses tekstil campuran serat hewani,Tekstil/Kertas/Kulit,construction,1.79,2.238,2.685,3.356,3.58,4.475,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2432,2432,,Mixed spinning/weaving - vegetable/cellulose,Proses tekstil campuran serat nabati,Tekstil/Kertas/Kulit,construction,1.445,1.806,2.167,2.709,2.889,3.612,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2433,2433,,Mixed spinning/weaving - synthetic fibres,Proses tekstil campuran serat sintetis,Tekstil/Kertas/Kulit,construction,1.745,2.182,2.618,3.272,3.491,4.363,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2438,2438,,Mixed spinning/weaving - mixed,Proses tekstil campuran,Tekstil/Kertas/Kulit,construction,2.102,2.627,3.153,3.941,4.203,5.254,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2441,2441,,Textile waste processing - animal fibres,Pengolahan limbah tekstil hewani,Tekstil/Kertas/Kulit,construction,4.89,6.113,7.335,9.169,9.78,12.225,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2442,2442,,Textile waste processing - vegetable/cellulose,Pengolahan limbah tekstil nabati,Tekstil/Kertas/Kulit,construction,4.877,6.096,7.315,9.144,9.754,12.192,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2443,2443,,Textile waste processing - synthetic,Pengolahan limbah tekstil sintetis,Tekstil/Kertas/Kulit,construction,2.599,3.249,3.898,4.873,5.198,6.497,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2448,2448,,Textile waste processing - mixed,Pengolahan limbah tekstil campuran,Tekstil/Kertas/Kulit,construction,3.658,4.572,5.486,6.858,7.315,9.144,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2451,2451,,Rope/string/sack makers,Pabrik tali/karung,Tekstil/Kertas/Kulit,construction,1.605,2.006,2.407,3.009,3.209,4.012,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2452,2452,,Blanket weaving mills and carpet manufacture,Pabrik selimut/karpet,Tekstil/Kertas/Kulit,construction,1.41,1.763,2.115,2.644,2.82,3.525,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2458,2458,,Rope/blanket/carpet mixed,Industri tali/karpet campuran,Tekstil/Kertas/Kulit,construction,1.55,1.938,2.325,2.906,3.1,3.875,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+248,248,,Cotton wool and kapok factories,Pabrik kapas/kapok,Tekstil/Kertas/Kulit,construction,3.223,4.029,4.834,6.043,6.446,8.057,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2501,2501,,Wood pulp and cellulose based on wood pulp,Pabrik pulp/selulosa kayu,Tekstil/Kertas/Kulit,construction,2.852,3.566,4.279,5.348,5.705,7.131,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2502,2502,,Linoleum factories,Pabrik linoleum,Tekstil/Kertas/Kulit,construction,4.423,5.529,6.635,8.293,8.846,11.058,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2508,2508,,Wood pulp/linoleum mixed,Pulp/linoleum campuran,Tekstil/Kertas/Kulit,construction,4.469,5.587,6.704,8.38,8.938,11.173,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2511,2511,,Paper manufacture,Pabrik kertas,Tekstil/Kertas/Kulit,construction,2.287,2.556,3.431,3.834,4.574,5.112,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2512,2512,,Manufacture of cardboard and hardboard,Pabrik karton/hardboard,Tekstil/Kertas/Kulit,construction,3.067,3.834,4.601,5.751,6.134,7.668,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2518,2518,,Paper/cardboard/hardboard mixed,Pabrik kertas/karton campuran,Tekstil/Kertas/Kulit,construction,3.282,4.102,4.922,6.153,6.563,8.204,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+254,254,,Coloured paper and/or wallpaper printing works,Percetakan kertas warna/wallpaper,Tekstil/Kertas/Kulit,construction,2.315,2.894,3.473,4.341,4.631,5.788,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+255,255,,Straw and rush goods factories,Pabrik barang jerami/anyaman,Tekstil/Kertas/Kulit,construction,1.631,2.038,2.446,3.058,3.262,4.077,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
