@@ -1,0 +1,92 @@
+id,code,variant,name,alias,category,rate_basis,k1_low,k1_high,k2_low,k2_high,k3_low,k3_high,source
+256,256,,Leather production and tanneries,Pabrik/penyamakan kulit,Tekstil/Kertas/Kulit,construction,1.323,1.654,1.985,2.481,2.646,3.308,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2571,2571,,Shoe factories - leather,Pabrik sepatu kulit,Tekstil/Kertas/Kulit,construction,5.415,6.768,8.122,10.152,10.829,13.537,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2572,2572,,Shoe factories - rubber/canvas,Pabrik sepatu karet/kanvas,Tekstil/Kertas/Kulit,construction,5.844,7.306,8.767,10.958,11.689,14.611,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2578,2578,,Shoe factories - other/mixed materials,Pabrik sepatu material campuran,Tekstil/Kertas/Kulit,construction,7.269,9.087,10.904,13.63,14.539,18.173,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2581,2581,,Leather goods factories,Pabrik barang kulit,Tekstil/Kertas/Kulit,construction,0.931,1.163,1.396,1.745,1.861,2.327,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2582,2582,,Imitation leather goods factories,Pabrik kulit imitasi,Tekstil/Kertas/Kulit,construction,2.985,3.731,4.477,5.596,5.969,7.462,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2588,2588,,Leather goods mixed,Pabrik barang kulit campuran,Tekstil/Kertas/Kulit,construction,2.854,3.567,4.281,5.351,5.708,7.135,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2623,2623,,Manufacture of plywood/veneer/related products,Pabrik plywood/triplex/veneer,Kayu/Furnitur,construction,4.466,5.582,6.699,8.373,8.932,11.164,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2624,2624,,Sirap factories,Pabrik sirap,Kayu/Furnitur,construction,8.892,11.115,13.338,16.673,17.785,22.231,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2628,2628,,Wood board/plywood mixed,Industri papan kayu campuran,Kayu/Furnitur,construction,4.37,5.463,6.555,8.194,8.74,10.925,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+263,263,,Turner/coachbuilder/pipes/walking-stick/picture frame/pencil factories,Workshop bubut/frame/pensil,Kayu/Furnitur,construction,1.883,2.354,2.824,3.53,3.766,4.707,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+264,264,,Wicker-work factories,Pabrik anyaman bambu,Kayu/Furnitur,construction,6.841,8.552,10.262,12.828,13.683,17.103,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+265,265,,Cork goods factories,Pabrik barang gabus,Kayu/Furnitur,construction,5.415,6.769,8.123,10.154,10.831,13.538,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+266,266,,"Broom, brush and paintbrush factories",Pabrik sapu/sikat/kuas,Kayu/Furnitur,construction,1.428,1.785,2.142,2.678,2.856,3.57,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+267,267,,Timber impregnation / plywood coating installation,Impregnasi kayu/coating plywood,Kayu/Furnitur,construction,3.836,4.794,5.753,7.192,7.671,9.589,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+268,268,,Wooden musical instruments factories,Pabrik alat musik kayu,Kayu/Furnitur,construction,2.4,3.0,3.6,4.5,4.8,6.0,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+269,269,,Charcoal producers and other category 26,Produsen arang/industri kayu lain,Kayu/Furnitur,construction,3.418,4.272,5.126,6.408,6.835,8.544,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2701,2701,,Corn mills,Penggilingan jagung,Makanan/Minuman,construction,0.853,1.067,1.28,1.6,1.707,2.134,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2702,2702,,Fodder mills,Pabrik pakan/fodder,Makanan/Minuman,construction,1.141,1.427,1.712,2.14,2.283,2.854,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2703,2703,,Gaplek mills,Penggilingan gaplek,Makanan/Minuman,construction,0.508,0.635,0.762,0.953,1.016,1.27,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2704,2704,,Gambir factories,Pabrik gambir,Makanan/Minuman,construction,2.742,3.427,4.113,5.141,5.483,6.854,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2705,2705,,Flour mills,Pabrik tepung,Makanan/Minuman,construction,0.612,0.765,0.918,1.147,1.224,1.529,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2708,2708,,Mills mixed including feed mill,Penggilingan campuran/pakan,Makanan/Minuman,construction,1.825,2.281,2.737,3.422,3.65,4.562,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2709,2709,,Paddy & hulling mills,Penggilingan padi,Makanan/Minuman,construction,1.008,1.259,1.511,1.889,2.015,2.519,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+27111,27111,,Sugar refinery plant,Pabrik refinery gula,Makanan/Minuman,construction,0.788,0.986,1.183,1.478,1.577,1.971,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+27112,27112,,Cane sugar plant,Pabrik gula tebu,Makanan/Minuman,construction,0.891,1.114,1.337,1.671,1.783,2.228,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+27113,27113,,Chocolate and sweets factories,Pabrik cokelat/permen,Makanan/Minuman,construction,0.686,0.857,1.028,1.286,1.371,1.714,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2721,2721,,Alimentary paste producers / pasta/macaronis,Pabrik pasta/makaroni,Makanan/Minuman,construction,1.115,1.394,1.673,2.091,2.23,2.788,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2723,2723,,Processed food factories / noodles/crackers,Pabrik mie/bihun/kerupuk,Makanan/Minuman,construction,1.345,1.682,2.018,2.522,2.691,3.363,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2728,2728,,Processed food mixed,Pabrik makanan olahan campuran,Makanan/Minuman,construction,1.27,1.588,1.905,2.381,2.54,3.175,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2731,2731,,Preserves/jam/fruit canning/MSG producers,Pabrik selai/kaleng/MSG,Makanan/Minuman,construction,0.972,1.215,1.458,1.822,1.944,2.43,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2732,2732,,Meat/meat products/fish products factories,Pabrik olahan daging/ikan,Makanan/Minuman,construction,0.923,1.153,1.384,1.73,1.845,2.306,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2741,2741,,Edible fats producers,Pabrik lemak pangan,Makanan/Minuman,construction,1.553,1.941,2.329,2.911,3.105,3.881,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2742,2742,,Edible oils/palm oil/cooking oil/margarine/desiccated coconut plants,Pabrik minyak pangan/CPO/cooking oil,Makanan/Minuman,construction,0.81,1.013,1.215,1.519,1.62,2.026,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2743,2743,,Storage of CPO outside estates / edible oils in tanks,Tangki CPO/minyak pangan di luar kebun,Makanan/Minuman,construction,1.506,1.883,2.26,2.825,3.013,3.766,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2748,2748,,Edible oil/fats mixed,Industri minyak/lemak pangan campuran,Makanan/Minuman,construction,1.761,2.201,2.641,3.301,3.521,4.402,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2751,2751,,Dairies and dairy products,Pabrik susu/produk dairy,Makanan/Minuman,construction,0.584,0.73,0.876,1.095,1.168,1.46,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2752,2752,,Powder milk,Pabrik susu bubuk,Makanan/Minuman,construction,0.934,1.167,1.4,1.75,1.867,2.334,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2761,2761,,Coffee roasting/extract/sorting/peeling/cashew roasting plants,Pabrik kopi/kacang sangrai,Makanan/Minuman,construction,0.802,1.003,1.203,1.504,1.605,2.006,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2762,2762,,Malting,Pabrik malt,Makanan/Minuman,construction,0.9,1.125,1.35,1.688,1.8,2.25,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2763,2763,,Tea sheds/factories including herb drink,Pabrik teh/minuman herbal,Makanan/Minuman,construction,1.277,1.596,1.915,2.394,2.554,3.192,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2768,2768,,Coffee/malting/tea mixed,Industri kopi/teh campuran,Makanan/Minuman,construction,1.25,1.563,1.875,2.344,2.5,3.125,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2771,2771,,Cold stores and ice factories,Cold storage/pabrik es,Makanan/Minuman,construction,0.923,1.154,1.384,1.73,1.846,2.307,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2772,2772,,Abattoirs and butchers / slaughter house,Rumah potong hewan,Makanan/Minuman,construction,1.163,1.454,1.745,2.181,2.326,2.908,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2773,2773,,Drying installations,Instalasi pengeringan pangan,Makanan/Minuman,construction,2.593,3.241,3.89,4.862,5.186,6.483,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2778,2778,,Cold store/abattoir mixed,Cold store/RPH campuran,Makanan/Minuman,construction,2.106,2.632,3.159,3.948,4.212,5.265,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2781,2781,,Breweries / beer factory,Pabrik bir,Makanan/Minuman,construction,0.52,0.65,0.78,0.975,1.04,1.3,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2782,2782,,"Producers of wines, fruit juices and mineral water",Pabrik wine/jus/air mineral,Makanan/Minuman,construction,0.88,1.099,1.319,1.649,1.759,2.199,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+27831,27831,,Producers of spirits and liquors,Pabrik spirits/liquor,Makanan/Minuman,construction,0.936,1.17,1.404,1.755,1.872,2.34,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+27832,27832,,Distilleries producing ethanol from non-petrochemical materials,Pabrik/distilasi ethanol non-petrokimia,Makanan/Minuman,construction,1.076,1.346,1.615,2.018,2.153,2.691,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2784,2784,,Vinegar factories,Pabrik cuka,Makanan/Minuman,construction,1.169,1.462,1.754,2.192,2.338,2.923,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2788,2788,,Beverage/distillery mixed,Industri minuman campuran,Makanan/Minuman,construction,1.286,1.608,1.929,2.412,2.572,3.215,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2790,2790,,"Tobacco, cigars and cigarettes manufacture",Pabrik rokok/cerutu,Tembakau,construction,0.719,0.899,1.079,1.348,1.438,1.798,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2791,2791,,Drying sheds/smoke houses for tobacco leaves,Rumah pengering/asap tembakau,Tembakau,construction,0.827,1.034,1.241,1.551,1.654,2.068,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2792,2792,,Oven for drying tobacco leaves,Oven pengering tembakau,Tembakau,construction,1.199,1.499,1.799,2.249,2.399,2.998,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2793,2793,,Tobacco establishment / processing,Pengolahan tembakau,Tembakau,construction,1.559,1.949,2.339,2.923,3.118,3.898,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2801,2801,,Conventional hydro electric power station,PLTA konvensional,Utilitas/Pembangkit,construction,1.035,1.294,1.553,1.941,2.07,2.587,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2802,2802,,Micro hydro electric power station,PLTMH/mikrohidro,Utilitas/Pembangkit,construction,0.9,1.125,1.35,1.688,1.8,2.25,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+28111,28111,,PLTU using steam boiler,PLTU steam boiler,Utilitas/Pembangkit,construction,3.011,3.763,4.516,5.645,6.021,7.526,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+28112,28112,,PLTU using geothermal,PLTU geothermal,Utilitas/Pembangkit,construction,2.164,2.705,3.246,4.057,4.328,5.41,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2812,2812,,PLTG,PLTG,Utilitas/Pembangkit,construction,2.728,3.41,4.092,5.116,5.457,6.821,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2813,2813,,PLTGU combined cycle,PLTGU,Utilitas/Pembangkit,construction,2.446,3.058,3.669,4.586,4.892,6.115,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2814,2814,,PLTD,PLTD,Utilitas/Pembangkit,construction,1.882,2.352,2.822,3.528,3.763,4.704,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+2815,2815,,Other conventional power station,Pembangkit listrik lainnya,Utilitas/Pembangkit,construction,3.293,4.116,4.939,6.174,6.586,8.232,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+282,282,,Nuclear power stations,Pembangkit listrik tenaga nuklir,Utilitas/Pembangkit,single,3.914,4.892,3.914,4.892,3.914,4.892,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+283,283,,Overhead power transmission lines and networks,Jaringan/transmisi listrik udara,Utilitas/Pembangkit,single,2.164,2.705,2.164,2.705,2.164,2.705,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+284,284,,Voltage/current transformer stations / open junction installation,Gardu/transformer listrik terbuka,Utilitas/Pembangkit,single,2.446,3.058,2.446,3.058,2.446,3.058,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+285,285,,Rubbish incineration for power generation/heating,Insinerator sampah untuk energi,Utilitas/Pembangkit,single,3.462,4.328,3.462,4.328,3.462,4.328,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+286,286,,Gas works flammable filling services (non pipelines),Filling gas mudah terbakar non-pipeline,Utilitas/Pembangkit,single,2.728,3.41,2.728,3.41,2.728,3.41,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+300,300,,Kina,Perkebunan kina,Perkebunan,single,4.3,5.375,4.3,5.375,4.3,5.375,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+301,301,,Coklat,Perkebunan coklat/kakao,Perkebunan,single,13.19,16.488,13.19,16.488,13.19,16.488,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+3031,3031,,Kopi tanpa rumah pengeringan,Perkebunan kopi tanpa rumah pengering,Perkebunan,single,2.54,3.175,2.54,3.175,2.54,3.175,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+3032,3032,,Kopi dengan rumah pengeringan,Perkebunan kopi dengan rumah pengering,Perkebunan,single,27.44,34.3,27.44,34.3,27.44,34.3,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+304,304,,Tea,Perkebunan teh,Perkebunan,single,0.74,0.925,0.74,0.925,0.74,0.925,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+305,305,,Minyak sereh,Perkebunan/minyak sereh,Perkebunan,single,4.65,5.813,4.65,5.813,4.65,5.813,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+306,306,,Kapok (dari hasil buah),Perkebunan kapok,Perkebunan,single,6.67,8.338,6.67,8.338,6.67,8.338,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+3071,3071,,Kelapa/kopra tanpa ekstraksi minyak,Kelapa/kopra tanpa ekstraksi minyak,Perkebunan,single,2.91,3.638,2.91,3.638,2.91,3.638,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+3072,3072,,Kelapa/kopra dengan ekstraksi minyak,Kelapa/kopra dengan ekstraksi minyak,Perkebunan,single,8.14,10.175,8.14,10.175,8.14,10.175,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+3073,3073,,Gedung pengeringan dengan pengering buatan,Gedung pengering kopra buatan,Perkebunan,single,35.66,44.575,35.66,44.575,35.66,44.575,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+3081,3081,,Karet - gedung tidak termasuk rumah asap,Perkebunan karet tanpa rumah asap,Perkebunan,single,3.39,4.238,3.39,4.238,3.39,4.238,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+3082,3082,,Karet - rumah asap,Rumah asap karet,Perkebunan,single,7.69,9.613,7.69,9.613,7.69,9.613,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+309,309,,Gula bibit,Perkebunan gula bibit,Perkebunan,single,3.0,3.75,3.0,3.75,3.0,3.75,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+310,310,,Perkebunan serat/serat campuran/kapok belum terproses,Perkebunan serat/kapok belum diproses,Perkebunan,single,6.2,7.75,6.2,7.75,6.2,7.75,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+311,311,,Pabrik tapioka di perkebunan,Pabrik tapioka di kebun,Perkebunan,single,5.0,6.25,5.0,6.25,5.0,6.25,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+312,312,,Damar dan terpentin,Perkebunan damar/terpentin,Perkebunan,single,7.55,9.438,7.55,9.438,7.55,9.438,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+313,313,,Cengkeh dan rempah-rempah,Perkebunan cengkeh/rempah,Perkebunan,single,6.215,7.769,6.215,7.769,6.215,7.769,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+314,314,,Padi tanpa pengerjaan termasuk di tempat terbuka,Padi belum diproses/open storage,Perkebunan,single,6.2,7.75,6.2,7.75,6.2,7.75,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+315,315,,Hortikultura/sayur/kentang tanpa pengeringan,Perkebunan hortikultura/sayur,Perkebunan,single,4.04,5.05,4.04,5.05,4.04,5.05,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+316,316,,Kelapa sawit,Perkebunan kelapa sawit,Perkebunan,single,0.99,1.238,0.99,1.238,0.99,1.238,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+317,317,,Tembakau,Perkebunan tembakau,Perkebunan,single,13.24,16.55,13.24,16.55,13.24,16.55,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
+318,318,,"Gambir, barang-barang di tempat terbuka",Perkebunan gambir/open storage,Perkebunan,single,5.83,7.288,5.83,7.288,5.83,7.288,SEOJK 6/SEOJK.05/2017 Lampiran I Tabel I.A
